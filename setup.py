@@ -15,7 +15,7 @@ setup(
     name="sicrediutils",
     packages=find_packages(include=["sicrediutils", "sicrediutils.*"]),
     install_requires=requirements,
-    version="0.0.1",
+    version="1.0.0",
     include_package_data=True,
     description="Teste de lib a",
     long_description=readme(),
