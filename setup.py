@@ -12,8 +12,8 @@ def readme():
 
 
 setup(
-    name="customliba",
-    packages=find_packages(include=["customliba", "customliba.*"]),
+    name="sicrediutils",
+    packages=find_packages(include=["sicrediutils", "sicrediutils.*"]),
     install_requires=requirements,
     version="0.0.1",
     include_package_data=True,
